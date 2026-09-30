@@ -2343,5 +2343,25 @@
     { "value": "internship", "label": "Internship" },
     { "value": "temporary", "label": "Temporary" }
   ],
+  "departments":  [
+    { "value": "engineering", "label": "Engineering" },
+    { "value": "product", "label": "Product" },
+    { "value": "design", "label": "Design" },
+    { "value": "marketing", "label": "Marketing" },
+    { "value": "sales", "label": "Sales" },
+    { "value": "human-resources", "label": "Human Resources" },
+    { "value": "finance", "label": "Finance" },
+    { "value": "customer-support", "label": "Customer Support" },
+    { "value": "operations", "label": "Operations" }
+  ],
+  "locations": [
+    { "value": "remote", "label": "Remote" },
+    { "value": "new-york", "label": "New York, NY" },
+    { "value": "san-francisco", "label": "San Francisco, CA" },
+    { "value": "austin", "label": "Austin, TX" },
+    { "value": "seattle", "label": "Seattle, WA" },
+    { "value": "boston", "label": "Boston, MA" },
+    { "value": "chicago", "label": "Chicago, IL" }
+],
   "$schema": "./node_modules/json-server/schema.json"
 }
