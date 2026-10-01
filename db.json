@@ -2353,7 +2353,7 @@
     { "value": "finance", "label": "Finance" },
     { "value": "customer-support", "label": "Customer Support" },
     { "value": "operations", "label": "Operations" }
-  ],
+  ],    
   "locations": [
     { "value": "remote", "label": "Remote" },
     { "value": "new-york", "label": "New York, NY" },
@@ -2362,6 +2362,11 @@
     { "value": "seattle", "label": "Seattle, WA" },
     { "value": "boston", "label": "Boston, MA" },
     { "value": "chicago", "label": "Chicago, IL" }
+],
+"statuses": [
+  { "value": "draft", "label": "Draft" },
+  { "value": "active", "label": "Active" },
+  { "value": "closed", "label": "Closed" }
 ],
   "$schema": "./node_modules/json-server/schema.json"
 }
