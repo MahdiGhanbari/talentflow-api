@@ -188,6 +188,167 @@
       "postedAt": "2026-09-12",
       "status": "Draft",
       "id": "xrf5bFYjHuc"
+    },
+    {
+      "title": "sdfsdfdsf",
+      "department": "product",
+      "location": "san-francisco",
+      "jobType": "contract",
+      "postedAt": "2026-10-01",
+      "status": "Draft",
+      "id": "c5M8ZqwQ7x8"
+    },
+    {
+      "id": "mR7abnhEDlg",
+      "title": "sdf",
+      "department": "engineering",
+      "location": "new-york",
+      "jobType": "contract",
+      "postedAt": "2026-10-03",
+      "status": "Draft"
+    },
+    {
+      "id": "jfXJFvjU3_8",
+      "title": "qqqqqqqqqq",
+      "department": "product",
+      "location": "san-francisco",
+      "jobType": "part-time",
+      "postedAt": "2026-10-03",
+      "status": "Draft"
+    },
+    {
+      "id": "-KXc6zpmzc8",
+      "title": "wwwwww",
+      "department": "product",
+      "location": "new-york",
+      "jobType": "part-time",
+      "postedAt": "2026-10-03",
+      "status": "Draft"
+    },
+    {
+      "id": "xIYJIEQaKko",
+      "title": "asdfdf",
+      "department": "product",
+      "location": "new-york",
+      "jobType": "part-time",
+      "postedAt": "2026-10-03",
+      "status": "Draft"
+    },
+    {
+      "id": "_Y4Y_9Pshs4",
+      "title": "werwe",
+      "department": "product",
+      "location": "san-francisco",
+      "jobType": "part-time",
+      "postedAt": "2026-10-03",
+      "status": "Draft"
+    },
+    {
+      "jobId": 1791043254364,
+      "title": "werwe",
+      "department": "product",
+      "location": "seattle",
+      "jobType": "contract",
+      "postedAt": "2026-10-03",
+      "status": "Draft",
+      "id": "hGulyVX_uIE"
+    },
+    {
+      "jobId": 1791043966551,
+      "title": "333sdfdf",
+      "department": "design",
+      "location": "san-francisco",
+      "jobType": "internship",
+      "postedAt": "2026-10-03",
+      "status": "Draft",
+      "id": "oQgxKLojnr8"
+    },
+    {
+      "jobId": 1791044055634,
+      "title": "ssdfe",
+      "department": "design",
+      "location": "new-york",
+      "jobType": "contract",
+      "postedAt": "2026-10-03",
+      "status": "Draft",
+      "id": "OGGZ8pjB-Ao"
+    },
+    {
+      "jobId": 1791044188525,
+      "title": "asdf",
+      "department": "marketing",
+      "location": "san-francisco",
+      "jobType": "internship",
+      "postedAt": "2026-10-03",
+      "status": "Draft",
+      "id": "etyYWswUkTw"
+    },
+    {
+      "jobId": 1791044355172,
+      "title": "sdf",
+      "department": "design",
+      "location": "san-francisco",
+      "jobType": "internship",
+      "postedAt": "2026-10-03",
+      "status": "Draft",
+      "id": "gYHMUxLkYcM"
+    },
+    {
+      "jobId": 1791044541484,
+      "title": "asdf",
+      "department": "marketing",
+      "location": "san-francisco",
+      "jobType": "internship",
+      "postedAt": "2026-10-03",
+      "status": "Draft",
+      "id": "pGNm9KaO9aE"
+    },
+    {
+      "jobId": 1791044780271,
+      "title": "sdfd",
+      "department": "design",
+      "location": "austin",
+      "jobType": "internship",
+      "postedAt": "2026-10-03",
+      "status": "Draft",
+      "id": "wCEdsbYKbNs"
+    },
+    {
+      "jobId": 1791045530023,
+      "title": "sdfds",
+      "department": "product",
+      "location": "san-francisco",
+      "jobType": "contract",
+      "postedAt": "2026-10-03",
+      "status": "Draft",
+      "id": "7IXDEWcQnUk"
+    },
+    {
+      "title": "cvxcv",
+      "department": "design",
+      "location": "san-francisco",
+      "jobType": "internship",
+      "postedAt": "2026-10-03",
+      "status": "Draft",
+      "id": "JTotpJpq-wk"
+    },
+    {
+      "title": "sdfdf",
+      "department": "product",
+      "location": "san-francisco",
+      "jobType": "contract",
+      "postedAt": "2026-10-04",
+      "status": "Draft",
+      "id": "7KuT81tiJI4"
+    },
+    {
+      "title": "aaaaaaa",
+      "department": "product",
+      "location": "boston",
+      "jobType": "full-time",
+      "postedAt": "2026-10-04",
+      "status": "Draft",
+      "id": "P1Hhe4EZ9CE"
     }
   ],
   "jobDetails": [
@@ -580,6 +741,137 @@
       "totalCandidates": 0,
       "interviewsScheduled": 0,
       "timeToHire": "23 days"
+    },
+    {
+      "description": null,
+      "experience": 3,
+      "salary": 2222,
+      "requirements": "",
+      "pipeline": {},
+      "id": "hFfig3HjWbs"
+    },
+    {
+      "description": null,
+      "experience": 2,
+      "salary": 3333,
+      "requirements": "",
+      "pipeline": {},
+      "id": "IVjixLaVavk"
+    },
+    {
+      "description": null,
+      "experience": 1,
+      "salary": 1000,
+      "requirements": "",
+      "pipeline": {},
+      "id": "a8fUdh5D1QA"
+    },
+    {
+      "id": "hbPv6sOMaEc",
+      "description": null,
+      "experience": 3,
+      "salary": 2222,
+      "requirements": "",
+      "pipeline": {}
+    },
+    {
+      "id": "IaIy18AOcVw",
+      "description": null,
+      "experience": 3,
+      "salary": 2222,
+      "requirements": "",
+      "pipeline": {}
+    },
+    {
+      "jobId": 1791043254364,
+      "description": null,
+      "experience": 3,
+      "salary": 2222,
+      "requirements": "",
+      "pipeline": {},
+      "id": "F2g0lgDByFg"
+    },
+    {
+      "jobId": 1791043966551,
+      "description": null,
+      "experience": 3,
+      "salary": 2333,
+      "requirements": "",
+      "pipeline": {},
+      "id": "A6RMIw8iHWA"
+    },
+    {
+      "jobId": 1791044055634,
+      "description": null,
+      "experience": 3,
+      "salary": 2233,
+      "requirements": "",
+      "pipeline": {},
+      "id": "OkK8wKPby2w"
+    },
+    {
+      "jobId": 1791044188525,
+      "description": null,
+      "experience": 3,
+      "salary": 34333,
+      "requirements": "",
+      "pipeline": {},
+      "id": "xSH0kId9ixo"
+    },
+    {
+      "jobId": 1791044355172,
+      "description": null,
+      "experience": 3,
+      "salary": 33333,
+      "requirements": "",
+      "pipeline": {},
+      "id": "QRZcImsVlWs"
+    },
+    {
+      "jobId": 1791044541484,
+      "description": null,
+      "experience": 3,
+      "salary": 33333,
+      "requirements": "",
+      "pipeline": {},
+      "id": "1-utc_spEN0"
+    },
+    {
+      "jobId": 1791044780271,
+      "description": null,
+      "experience": 3,
+      "salary": 3333,
+      "requirements": "",
+      "pipeline": {},
+      "id": "wKicw-zofOU"
+    },
+    {
+      "jobId": "JTotpJpq-wk",
+      "description": null,
+      "experience": 3,
+      "salary": 3333,
+      "requirements": "",
+      "pipeline": {},
+      "id": "NzjpuO9Z3yk"
+    },
+    {
+      "jobId": "7KuT81tiJI4",
+      "description": "fasdfasdf asdfasdfasdf",
+      "experience": 30,
+      "salary": 3333,
+      "requirements": "",
+      "pipeline": {},
+      "id": "TzSCsrvxQrY"
+    },
+    {
+      "jobId": "P1Hhe4EZ9CE",
+      "description": "asdfasdfasdf\r\nasdfasdfasdfsadfasdfasdf\r\nasdfasdf\r\nasdfasdfasdfsadfsadfsad",
+      "experience": 2,
+      "responsibilities": "kajsdjfasd;fasdj\r\nkljasdfl;jasd;lfja;sldfa\r\nasdklfjaslkdjfas;ldfasdf",
+      "requirements": "aasdfasdfd\r\nasdf\r\nasdfasdfd\r\nasdfasdfasdf\r\nasdfasdfsdd",
+      "salary": 3000,
+      "pipeline": {},
+      "id": "qc2WhFOi5nI"
     }
   ],
   "candidates": [
@@ -2337,36 +2629,132 @@
     }
   ],
   "jobTypes": [
-    { "value": "full-time", "label": "Full-time" },
-    { "value": "part-time", "label": "Part-time" },
-    { "value": "contract", "label": "Contract" },
-    { "value": "internship", "label": "Internship" },
-    { "value": "temporary", "label": "Temporary" }
+    {
+      "value": "full-time",
+      "label": "Full-time",
+      "id": "JtEvxcWrJ_w"
+    },
+    {
+      "value": "part-time",
+      "label": "Part-time",
+      "id": "U5AgG0W584w"
+    },
+    {
+      "value": "contract",
+      "label": "Contract",
+      "id": "0wKb8-uUX3k"
+    },
+    {
+      "value": "internship",
+      "label": "Internship",
+      "id": "_Q7oW-7Kumc"
+    },
+    {
+      "value": "temporary",
+      "label": "Temporary",
+      "id": "xDrYKnTOJbA"
+    }
   ],
-  "departments":  [
-    { "value": "engineering", "label": "Engineering" },
-    { "value": "product", "label": "Product" },
-    { "value": "design", "label": "Design" },
-    { "value": "marketing", "label": "Marketing" },
-    { "value": "sales", "label": "Sales" },
-    { "value": "human-resources", "label": "Human Resources" },
-    { "value": "finance", "label": "Finance" },
-    { "value": "customer-support", "label": "Customer Support" },
-    { "value": "operations", "label": "Operations" }
-  ],    
+  "departments": [
+    {
+      "value": "engineering",
+      "label": "Engineering",
+      "id": "V5-F8Pjap1o"
+    },
+    {
+      "value": "product",
+      "label": "Product",
+      "id": "jyZBdfDFhYY"
+    },
+    {
+      "value": "design",
+      "label": "Design",
+      "id": "8ZAnknO_Ur0"
+    },
+    {
+      "value": "marketing",
+      "label": "Marketing",
+      "id": "kfD6NVwH6Rk"
+    },
+    {
+      "value": "sales",
+      "label": "Sales",
+      "id": "rRJz2TtUazM"
+    },
+    {
+      "value": "human-resources",
+      "label": "Human Resources",
+      "id": "jImJFrF4wYY"
+    },
+    {
+      "value": "finance",
+      "label": "Finance",
+      "id": "Mg8M0E8poXk"
+    },
+    {
+      "value": "customer-support",
+      "label": "Customer Support",
+      "id": "gKDButdrAvU"
+    },
+    {
+      "value": "operations",
+      "label": "Operations",
+      "id": "xd7W8QX44og"
+    }
+  ],
   "locations": [
-    { "value": "remote", "label": "Remote" },
-    { "value": "new-york", "label": "New York, NY" },
-    { "value": "san-francisco", "label": "San Francisco, CA" },
-    { "value": "austin", "label": "Austin, TX" },
-    { "value": "seattle", "label": "Seattle, WA" },
-    { "value": "boston", "label": "Boston, MA" },
-    { "value": "chicago", "label": "Chicago, IL" }
-],
-"statuses": [
-  { "value": "draft", "label": "Draft" },
-  { "value": "active", "label": "Active" },
-  { "value": "closed", "label": "Closed" }
-],
+    {
+      "value": "remote",
+      "label": "Remote",
+      "id": "nFE6S08uX9g"
+    },
+    {
+      "value": "new-york",
+      "label": "New York, NY",
+      "id": "2FGahYH_CDs"
+    },
+    {
+      "value": "san-francisco",
+      "label": "San Francisco, CA",
+      "id": "Zgq_SzvAPO4"
+    },
+    {
+      "value": "austin",
+      "label": "Austin, TX",
+      "id": "KyA7r0QxDwY"
+    },
+    {
+      "value": "seattle",
+      "label": "Seattle, WA",
+      "id": "XVkpoRsaIeE"
+    },
+    {
+      "value": "boston",
+      "label": "Boston, MA",
+      "id": "IHQqnS95Up0"
+    },
+    {
+      "value": "chicago",
+      "label": "Chicago, IL",
+      "id": "xRqvLScrI4o"
+    }
+  ],
+  "statuses": [
+    {
+      "value": "draft",
+      "label": "Draft",
+      "id": "vuqqALQW25Y"
+    },
+    {
+      "value": "active",
+      "label": "Active",
+      "id": "lOoVJsRFjSI"
+    },
+    {
+      "value": "closed",
+      "label": "Closed",
+      "id": "J16s90ELhtg"
+    }
+  ],
   "$schema": "./node_modules/json-server/schema.json"
 }
